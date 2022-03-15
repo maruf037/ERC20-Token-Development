@@ -1,0 +1,23 @@
+{
+  "name": "erc20",
+  "version": "1.0.0",
+  "description": "This is a project for erc20 token development and deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maruf037/ERC20-Token-Development.git"
+  },
+  "author": "maruf037",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maruf037/ERC20-Token-Development/issues"
+  },
+  "homepage": "https://github.com/maruf037/ERC20-Token-Development#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "hardhat": "^2.9.1"
+  }
+}
