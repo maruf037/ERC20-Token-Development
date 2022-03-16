@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/maruf037/ERC20-Token-Development#readme",
   "devDependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
     "dotenv": "^16.0.0",
     "hardhat": "^2.9.1"
   }
